@@ -58,3 +58,19 @@ npm run dev --> to start te appln
 
 To restore node_modules and package-lock.json --> npm i/npm install
 
+npm i mongoose
+
+npm install mongodb
+
+vivekgouda0427_db_user
+mKVlmcRSftm0tqSz
+
+mongodb+srv://vivekgouda0427_db_user:<db_password>@cluster0.crcdkee.mongodb.net/?appName=Cluster0
+
+npm i dotenv
+
+## MVC Architecture
+
+M : Model(Structure of MongoDB)
+V : View(front view)
+C : Controller(Brain or logic of routes)
